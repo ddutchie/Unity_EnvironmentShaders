@@ -41,6 +41,7 @@ Inspiration:
 - [Keijiro's Standard Geometry Shader](https://github.com/keijiro/StandardGeometryShader)
 - [Brute Force's Grass](https://www.bruteforce-games.com/post/grass-shader-devblog-04)
 - [Shahriar Shahrabi's Volumetric Grass](https://shahriyarshahrabi.medium.com/volumetric-grass-shader-28ebb9f6860b)
+- [Inigo Quilez's Biplanar Mapping](https://iquilezles.org/www/articles/biplanar/biplanar.htm)
 
 
 Unity 2018.4
