@@ -1,2 +1,10 @@
 # Unity_EnvironmentShaders
-Some geometry shaders useful to add some life to Unity Projects
+This Repo contains some of my environments shader experiments in Unity3D
+
+
+# Grass
+Some Grass Shaders
+
+# Ivy
+Some Ivy Shaders
+
